@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**AinsiParlaitZarathoustra/AinsiParlaitZarathoustra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent developer who enjoys bringing his ideas to life and sharing them with the world through GitHub.
 
-Here are some ideas to get you started:
+🔭 **I'm currently working on [Bricks](https://github.com/AinsiParlaitZarathoustra/Bricks)**, a project I've been building from A to Z or, more accurately, from E to V!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Why E to V? Because Bricks was originally built upon Cersei (a huge thank you to Pacifio for his incredible work!), and because the journey is far from over.
+
+My vision is to build both an **ADE (Agent Development Environment)** and an **ADK (Agent Development Kit)**, designed for what I believe will be the future of AI-powered software development.
+
+Feel free to explore the repository to learn more about the project!
+
+🦀 **My other major project is [PolySaver](https://github.com/AinsiParlaitZarathoustra/PolySaver)**, a video downloader written in Rust and powered by yt-dlp. I regularly maintain and improve it.
+
+🇫🇷 **Oh, and I'm French.** Not sure whether that's an advantage or a disadvantage — I'll let you decide! 

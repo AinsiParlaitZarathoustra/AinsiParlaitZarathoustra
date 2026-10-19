@@ -12,4 +12,4 @@ Feel free to explore the repository to learn more about the project!
 
 🦀 **My other major project is [PolySaver](https://github.com/AinsiParlaitZarathoustra/PolySaver)**, a video downloader written in Rust and powered by yt-dlp. I regularly maintain and improve it
 
-🇫🇷 **Oh, and I'm French.** Not sure whether that's an advantage or a disadvantage... I'll let you decide
+🇫🇷 And I'm French. Not sure whether that's an advantage or a disadvantage... I'll let you decide
